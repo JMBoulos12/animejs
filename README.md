@@ -10,3 +10,13 @@
 | 08  | []() | [Live Demo - Coming SOON](Coming SOON) |
 | 09  | []() | [Live Demo - Coming SOON](Coming SOON) |
 | 10  | []() | [Live Demo - Coming SOON](Coming SOON) |
+| 11  | []() | [Live Demo - Coming SOON](Coming SOON) |
+| 12  | []() | [Live Demo - Coming SOON](Coming SOON) |
+| 13  | []() | [Live Demo - Coming SOON](Coming SOON) |
+| 14  | []() | [Live Demo - Coming SOON](Coming SOON) |
+| 15  | []() | [Live Demo - Coming SOON](Coming SOON) |
+| 16  | []() | [Live Demo - Coming SOON](Coming SOON) |
+| 17  | []() | [Live Demo - Coming SOON](Coming SOON) |
+| 18  | []() | [Live Demo - Coming SOON](Coming SOON) |
+| 19  | []() | [Live Demo - Coming SOON](Coming SOON) |
+| 20  | []() | [Live Demo - Coming SOON](Coming SOON) |
