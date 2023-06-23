@@ -8,7 +8,7 @@
 | 06  | [Logo Animation V3](https://github.com/JMBoulos12/animejs/tree/main/logo-animation-v3) | [Live Demo - Coming SOON](Coming SOON) |
 | 07  | [Easings Animations](https://github.com/JMBoulos12/animejs/tree/main/easings-animations) | [Live Demo - Coming SOON](Coming SOON) |
 | 08  | [Stepper Iteration](https://github.com/JMBoulos12/animejs/tree/main/stepper-iteration) | [Live Demo - Coming SOON](Coming SOON) |
-| 09  | []() | [Live Demo - Coming SOON](Coming SOON) |
+| 09  | [Banksy Shredder](https://github.com/JMBoulos12/animejs/tree/main/banksy-shredder) | [Live Demo - Coming SOON](Coming SOON) |
 | 10  | []() | [Live Demo - Coming SOON](Coming SOON) |
 | 11  | []() | [Live Demo - Coming SOON](Coming SOON) |
 | 12  | []() | [Live Demo - Coming SOON](Coming SOON) |
