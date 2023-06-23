@@ -1,1 +1,1 @@
-![image](https://github.com/JMBoulos12/animejs/assets/65892342/3b1e0928-4785-43f6-a0fb-faf113aaae13)
+![animejs-v3-logo-animation](https://github.com/JMBoulos12/animejs/assets/65892342/399aaef3-0bff-4df9-9885-2dc5276ce716)
