@@ -13,7 +13,7 @@
 | 11  | [SVG Morphing](https://github.com/JMBoulos12/animejs/tree/main/svg-morphing) | [Live Demo - Coming SOON](Coming SOON) |
 | 12  | [Animated Hexagon Circle Logo](https://github.com/JMBoulos12/animejs/tree/main/animated-hexagon-circle-logo) | [Live Demo - Coming SOON](Coming SOON) |
 | 13  | [Animated Svg Illustration](https://github.com/JMBoulos12/animejs/tree/main/animated-svg-illustration) | [Live Demo - Coming SOON](Coming SOON) |
-| 14  | []() | [Live Demo - Coming SOON](Coming SOON) |
+| 14  | [Path Slider Basic Demo](https://github.com/JMBoulos12/animejs/tree/main/path-slider-basic-demo) | [Live Demo - Coming SOON](Coming SOON) |
 | 15  | []() | [Live Demo - Coming SOON](Coming SOON) |
 | 16  | []() | [Live Demo - Coming SOON](Coming SOON) |
 | 17  | []() | [Live Demo - Coming SOON](Coming SOON) |
