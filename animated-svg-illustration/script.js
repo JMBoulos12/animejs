@@ -1,3 +1,5 @@
+/* babel.js */
+
 var planesCard = anime.timeline({
     direction: 'forwards',
     loop: true
