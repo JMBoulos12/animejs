@@ -15,7 +15,7 @@
 | 13  | [Animated Svg Illustration](https://github.com/JMBoulos12/animejs/tree/main/animated-svg-illustration) | [Live Demo - Coming SOON](Coming SOON) |
 | 14  | [Path Slider Basic Demo](https://github.com/JMBoulos12/animejs/tree/main/path-slider-basic-demo) | [Live Demo - Coming SOON](Coming SOON) |
 | 15  | [Hand Written SVG Text Animation](https://github.com/JMBoulos12/animejs/tree/main/hand-written-svg-text-animation) | [Live Demo - Coming SOON](Coming SOON) |
-| 16  | []() | [Live Demo - Coming SOON](Coming SOON) |
+| 16  | [Mobile Planet Gallery](https://github.com/JMBoulos12/animejs/tree/main/mobile-planet-gallery) | [Live Demo - Coming SOON](Coming SOON) |
 | 17  | []() | [Live Demo - Coming SOON](Coming SOON) |
 | 18  | []() | [Live Demo - Coming SOON](Coming SOON) |
 | 19  | []() | [Live Demo - Coming SOON](Coming SOON) |
