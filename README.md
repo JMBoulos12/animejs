@@ -18,6 +18,6 @@
 | 16  | [Mobile Planet Gallery](https://github.com/JMBoulos12/animejs/tree/main/mobile-planet-gallery) | [Live Demo - Coming SOON](Coming SOON) |
 | 17  | [Snake Highlight](https://github.com/JMBoulos12/animejs/tree/main/snake-highlight) | [Live Demo - Coming SOON](Coming SOON) |
 | 18  | [Card Flip](https://github.com/JMBoulos12/animejs/tree/main/card-flip) | [Live Demo - Coming SOON](Coming SOON) |
-| 19  | []() | [Live Demo - Coming SOON](Coming SOON) |
+| 19  | [Animated SVG Frame Slideshow](https://github.com/JMBoulos12/animejs/tree/main/animated-frame-slideshow) | [Live Demo - Coming SOON](Coming SOON) |
 | 20  | []() | [Live Demo - Coming SOON](Coming SOON) |
 | 21  | []() | [Live Demo - Coming SOON](Coming SOON) |
