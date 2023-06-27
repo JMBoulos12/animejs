@@ -21,3 +21,4 @@
 | 19  | [Animated SVG Frame Slideshow](https://github.com/JMBoulos12/animejs/tree/main/animated-frame-slideshow) | [Live Demo - Coming SOON](Coming SOON) |
 | 20  | [Expanding Grid Item](https://github.com/JMBoulos12/animejs/tree/main/expanding-grid-item) | [Live Demo - Coming SOON](Coming SOON) |
 | 21  | [Bike to School](https://github.com/JMBoulos12/animejs/tree/main/bike-to-school) | [Live Demo - Coming SOON](Coming SOON) |
+| 22  | []() | [Live Demo - Coming SOON](Coming SOON) |
