@@ -23,3 +23,5 @@
 | 21  | [Bike to School](https://github.com/JMBoulos12/animejs/tree/main/bike-to-school) | [Live Demo - Coming SOON](Coming SOON) |
 | 22  | []() | [Live Demo - Coming SOON](Coming SOON) |
 | 23  | []() | [Live Demo - Coming SOON](Coming SOON) |
+| 24  | []() | [Live Demo - Coming SOON](Coming SOON) |
+| 25  | []() | [Live Demo - Coming SOON](Coming SOON) |
