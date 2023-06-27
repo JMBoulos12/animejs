@@ -22,3 +22,4 @@
 | 20  | [Expanding Grid Item](https://github.com/JMBoulos12/animejs/tree/main/expanding-grid-item) | [Live Demo - Coming SOON](Coming SOON) |
 | 21  | [Bike to School](https://github.com/JMBoulos12/animejs/tree/main/bike-to-school) | [Live Demo - Coming SOON](Coming SOON) |
 | 22  | []() | [Live Demo - Coming SOON](Coming SOON) |
+| 23  | []() | [Live Demo - Coming SOON](Coming SOON) |
