@@ -23,7 +23,7 @@
 | 21  | [Bike to School](https://github.com/JMBoulos12/animejs/tree/main/bike-to-school) | [Live Demo - Coming SOON](Coming SOON) |
 | 22  | [Modern Retro - IBM THINK](https://github.com/JMBoulos12/animejs/tree/main/modern-retro) | [Live Demo - Coming SOON](Coming SOON) |
 | 23  | [Submit Button Concept](https://github.com/JMBoulos12/animejs/tree/main/submit-button-concept) | [Live Demo - Coming SOON](Coming SOON) |
-| 24  | []() | [Live Demo - Coming SOON](Coming SOON) |
+| 24  | [Inspiration For Grid Loading](https://github.com/JMBoulos12/animejs/tree/main/inspiration-for-grid-loading) | [Live Demo - Coming SOON](Coming SOON) |
 | 25  | []() | [Live Demo - Coming SOON](Coming SOON) |
 | 26  | []() | [Live Demo - Coming SOON](Coming SOON) |
 | 27  | []() | [Live Demo - Coming SOON](Coming SOON) |
