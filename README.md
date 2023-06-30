@@ -27,7 +27,7 @@
 | 25  | [SVG Sphere Animation](https://github.com/JMBoulos12/animejs/tree/main/svg-sphere-animation) | [Live Demo - Coming SOON](Coming SOON) |
 | 26  | [Preloader](https://github.com/JMBoulos12/animejs/tree/main/preloader) | [Live Demo - Coming SOON](Coming SOON) |
 | 27  | [Fireworks Canvas](https://github.com/JMBoulos12/animejs/tree/main/Fireworks%20Canvas) | [Live Demo - Coming SOON](Coming SOON) |
-| 28  | []() | [Live Demo - Coming SOON](Coming SOON) |
+| 28  | [Color Changin'](https://github.com/JMBoulos12/animejs/tree/main/color-changin) | [Live Demo - Coming SOON](Coming SOON) |
 | 29  | []() | [Live Demo - Coming SOON](Coming SOON) |
 | 30  | []() | [Live Demo - Coming SOON](Coming SOON) |
 | 31  | []() | [Live Demo - Coming SOON](Coming SOON) |
