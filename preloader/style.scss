@@ -1,0 +1,43 @@
+$bg-color: #111116;
+$radius: 32px;
+$border: 4px;
+$circle1-color: #FC1460;
+$circle2-color: #5A87FF;
+$circle3-color: #18FD91;
+$circle4-color: #FBF38C;
+
+body {
+	background-color: $bg-color;
+}
+
+.center {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translateX(-50%) translateY(-50%);
+}
+
+.circle {
+	display: inline-block;
+	width: $radius;
+	height: $radius;
+	border-radius: 50%;
+	margin: 0 4px;
+}
+
+.circle-1 {
+	border: $border solid $circle1-color;
+}
+
+.circle-2 {
+	border: $border solid $circle2-color;
+}
+
+.circle-3 {
+	border: $border solid $circle3-color;
+}
+
+.circle-4 {
+	border: $border solid $circle4-color;
+}
+
