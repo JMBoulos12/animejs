@@ -24,7 +24,7 @@
 | 22  | [Modern Retro - IBM THINK](https://github.com/JMBoulos12/animejs/tree/main/modern-retro) | [Live Demo - Coming SOON](Coming SOON) |
 | 23  | [Submit Button Concept](https://github.com/JMBoulos12/animejs/tree/main/submit-button-concept) | [Live Demo - Coming SOON](Coming SOON) |
 | 24  | [Inspiration For Grid Loading](https://github.com/JMBoulos12/animejs/tree/main/inspiration-for-grid-loading) | [Live Demo - Coming SOON](Coming SOON) |
-| 25  | []() | [Live Demo - Coming SOON](Coming SOON) |
+| 25  | [SVG Sphere Animation](https://github.com/JMBoulos12/animejs/tree/main/svg-sphere-animation) | [Live Demo - Coming SOON](Coming SOON) |
 | 26  | []() | [Live Demo - Coming SOON](Coming SOON) |
 | 27  | []() | [Live Demo - Coming SOON](Coming SOON) |
 | 28  | []() | [Live Demo - Coming SOON](Coming SOON) |
