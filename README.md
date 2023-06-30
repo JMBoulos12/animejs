@@ -30,4 +30,15 @@
 | 28  | [Color Changin'](https://github.com/JMBoulos12/animejs/tree/main/color-changin) | [Live Demo - Coming SOON](Coming SOON) |
 | 29  | [Floatting Draggable Menu (Messenger Like)](https://github.com/JMBoulos12/animejs/tree/main/floatting-draggable-menu) | [Live Demo - Coming SOON](Coming SOON) |
 | 30  | [Dulst Achievement Animation](https://github.com/JMBoulos12/animejs/tree/main/logo-animation) | [Live Demo - Coming SOON](Coming SOON) |
+| 31  | [Banksy Morph](https://github.com/JMBoulos12/animejs/tree/main/banksy-morph) | [Live Demo - Coming SOON](Coming SOON) |
 | 31  | []() | [Live Demo - Coming SOON](Coming SOON) |
+| 32  | []() | [Live Demo - Coming SOON](Coming SOON) |
+| 33  | []() | [Live Demo - Coming SOON](Coming SOON) |
+| 34  | []() | [Live Demo - Coming SOON](Coming SOON) |
+| 35  | []() | [Live Demo - Coming SOON](Coming SOON) |
+| 36  | []() | [Live Demo - Coming SOON](Coming SOON) |
+| 37  | []() | [Live Demo - Coming SOON](Coming SOON) |
+| 38  | []() | [Live Demo - Coming SOON](Coming SOON) |
+| 39  | []() | [Live Demo - Coming SOON](Coming SOON) |
+| 40  | []() | [Live Demo - Coming SOON](Coming SOON) |
+| 41  | []() | [Live Demo - Coming SOON](Coming SOON) |
