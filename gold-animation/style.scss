@@ -1,0 +1,84 @@
+$svg-size: 325px;
+$gold-light: #F5C21B;
+$gold-dark: #D17000;
+
+body {
+ height: 100vh;
+ overflow: hidden;
+ position: relative;
+ transition: all .2s ease-out;
+}
+
+body.animation-complete {
+ background: #222;
+ 
+ .decolines .decoline {
+  background: $gold-light !important;
+ }
+ 
+ .player-controls .btn {
+  color: $gold-light;
+ }
+ 
+ .svg-wrap {
+  fill: #222;
+  box-shadow: 0 35px 50px 0px rgba(0, 0, 0, .20);
+ }
+ 
+ .element-border {
+  fill: #222;
+  stroke: url(#goldGradient);
+ }
+ 
+ .element-name {
+  fill: #F5C21B;
+ }
+}
+
+.player-controls {
+ position: absolute;
+ margin: 15px;
+ right: 0;
+ top: 0;
+ width: auto;
+}
+
+main {
+ height: 100vh;
+}
+
+.svg-wrap {
+ background: transparent;
+ height: $svg-size;
+ width: $svg-size;
+ transition: box-shadow .2s ease-out;
+ transform-style: preserve-3d;
+ z-index: 999;
+}
+
+svg {
+ height: $svg-size;
+ width: $svg-size;
+ transform-style: preserve-3d;
+}
+
+.element-border {
+ opacity: 0;
+ fill: none;
+ stroke: #000;
+ stroke-width: 20px;
+ stroke-linecap: square;
+ transition: fill .2s ease-out;
+}
+
+.element-name {
+ opacity: 0;
+}
+
+[data-name="mojs-shape"] {
+  z-index: 99;
+}
+
+.decolines .decoline {
+ opacity: .15 !important;
+}
