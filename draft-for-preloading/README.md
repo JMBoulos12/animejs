@@ -1,1 +1,1 @@
-![codepen-eYJmoXQ](https://github.com/JMBoulos12/animejs/assets/65892342/cc4fe5e8-e779-4325-b913-680f6c209ee0)
+![codepen-GRJQzge](https://github.com/JMBoulos12/animejs/assets/65892342/24fd7a2c-6cf0-49a6-a3d7-c6720982c3cb)
