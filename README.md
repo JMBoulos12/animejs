@@ -35,7 +35,7 @@
 | 32  | [Basic Animation](https://github.com/JMBoulos12/animejs/tree/main/basic-animation) | [Live Demo - Coming SOON](Coming SOON) |
 | 33  | [Draft For Preloading](https://github.com/JMBoulos12/animejs/tree/main/draft-for-preloading) | [Live Demo - Coming SOON](Coming SOON) |
 | 34  | ['Merci Mec For The Invit'](https://github.com/JMBoulos12/animejs/tree/main/merci-mec-for-the-invit) | [Live Demo - Coming SOON](Coming SOON) |
-| 35  | []() | [Live Demo - Coming SOON](Coming SOON) |
+| 35  | [Powered 3D Cards Stack Slider](https://github.com/JMBoulos12/animejs/tree/main/powered-3d-cards-stack-slider) | [Live Demo - Coming SOON](Coming SOON) |
 | 36  | []() | [Live Demo - Coming SOON](Coming SOON) |
 | 37  | []() | [Live Demo - Coming SOON](Coming SOON) |
 | 38  | []() | [Live Demo - Coming SOON](Coming SOON) |
