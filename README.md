@@ -31,7 +31,7 @@
 | 29  | [Floatting Draggable Menu (Messenger Like)](https://github.com/JMBoulos12/animejs/tree/main/floatting-draggable-menu) | [Live Demo - Coming SOON](Coming SOON) |
 | 30  | [Dulst Achievement Animation](https://github.com/JMBoulos12/animejs/tree/main/logo-animation) | [Live Demo - Coming SOON](Coming SOON) |
 | 31  | [Banksy Morph](https://github.com/JMBoulos12/animejs/tree/main/banksy-morph) | [Live Demo - Coming SOON](Coming SOON) |
-| 31  | []() | [Live Demo - Coming SOON](Coming SOON) |
+| 31  | [Gold Animation (Made With Mo.js And Anime.js)](https://github.com/JMBoulos12/animejs/tree/main/gold-animation) | [Live Demo - Coming SOON](Coming SOON) |
 | 32  | []() | [Live Demo - Coming SOON](Coming SOON) |
 | 33  | []() | [Live Demo - Coming SOON](Coming SOON) |
 | 34  | []() | [Live Demo - Coming SOON](Coming SOON) |
