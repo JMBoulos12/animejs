@@ -33,7 +33,7 @@
 | 31  | [Banksy Morph](https://github.com/JMBoulos12/animejs/tree/main/banksy-morph) | [Live Demo - Coming SOON](Coming SOON) |
 | 31  | [Gold Animation (Made With Mo.js And Anime.js)](https://github.com/JMBoulos12/animejs/tree/main/gold-animation) | [Live Demo - Coming SOON](Coming SOON) |
 | 32  | [Basic Animation](https://github.com/JMBoulos12/animejs/tree/main/basic-animation) | [Live Demo - Coming SOON](Coming SOON) |
-| 33  | []() | [Live Demo - Coming SOON](Coming SOON) |
+| 33  | [Draft For Preloading](https://github.com/JMBoulos12/animejs/tree/main/draft-for-preloading) | [Live Demo - Coming SOON](Coming SOON) |
 | 34  | []() | [Live Demo - Coming SOON](Coming SOON) |
 | 35  | []() | [Live Demo - Coming SOON](Coming SOON) |
 | 36  | []() | [Live Demo - Coming SOON](Coming SOON) |
