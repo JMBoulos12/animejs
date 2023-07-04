@@ -48,3 +48,4 @@
 | 45  | []() | [Live Demo - Coming SOON](Coming SOON) |
 | 46  | []() | [Live Demo - Coming SOON](Coming SOON) |
 | 47  | []() | [Live Demo - Coming SOON](Coming SOON) |
+| 48  | []() | [Live Demo - Coming SOON](Coming SOON) |
