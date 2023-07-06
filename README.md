@@ -40,7 +40,7 @@
 | 37  | [Three Text Animation](https://github.com/JMBoulos12/animejs/tree/main/three-text-animation) | [Live Demo - Coming SOON](Coming SOON) |
 | 38  | [Animated Boxes](https://github.com/JMBoulos12/animejs/tree/main/animated-boxes) | [Live Demo - Coming SOON](Coming SOON) |
 | 39  | [Sample](https://github.com/JMBoulos12/animejs/tree/main/sample) | [Live Demo - Coming SOON](Coming SOON) |
-| 40  | []() | [Live Demo - Coming SOON](Coming SOON) |
+| 40  | [Color Changing](https://github.com/JMBoulos12/animejs/tree/main/color-changing) | [Live Demo - Coming SOON](Coming SOON) |
 | 41  | []() | [Live Demo - Coming SOON](Coming SOON) |
 | 42  | []() | [Live Demo - Coming SOON](Coming SOON) |
 | 43  | []() | [Live Demo - Coming SOON](Coming SOON) |
