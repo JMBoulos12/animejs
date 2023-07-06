@@ -1,0 +1,46 @@
+body {
+  background: #204050;
+  perspective: 2000;
+  overflow: hidden;
+}
+
+.wrapper {
+  position: relative;
+  width: 300px;
+  height: 300px;
+  margin: 40px auto;
+  overflow: hidden;
+  perspective: 2000;
+}
+
+
+#container {
+  position: absolute;
+  width: 600px;
+  height: 600px;
+  top: -150px;
+  left: -150px;
+  margin: auto;
+  overflow: hidden;
+  perspective: 2000;
+}
+
+.ball {
+  transform: translateX(0) translateY(0) scale(0);
+  position: absolute;
+  z-index: 3;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  width: 70px;
+  height: 70px;
+  margin: auto;
+  border-radius: 50%;
+  &.ball-red {
+    background: tomato;
+  }
+  &.ball-blue {
+    background: lightskyblue;
+  }
+}
